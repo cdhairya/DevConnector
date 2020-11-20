@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://dhairya:dhairya@devconnector.p3u9f.mongodb.net/devconnectordb?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://dhairya:dhairya@devconnector.p3u9f.mongodb.net/devconnectordb?retryWrites=true&w=majority",
+    "jwtSecret": "mySecret"
 }
